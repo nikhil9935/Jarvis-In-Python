@@ -62,7 +62,7 @@ if __name__ == "__main__":
         elif "tell me your name" in query:
             speak("I am Jarvis. Your deskstop Assistant")
         elif "bye" in query:
-            speak("Bye. Check Out GFG for more exicting things")
+            speak("Bye Sir.")
             exit()
 
 
