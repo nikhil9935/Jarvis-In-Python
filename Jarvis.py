@@ -59,6 +59,8 @@ if __name__ == "__main__":
 
         elif 'open stackoverflow' in query:
             webbrowser.open("stackoverflow.com")   
+        elif "tell me your name" in query:
+            speak("I am Jarvis. Your deskstop Assistant")
 
 
        
